@@ -1,6 +1,6 @@
 # NAV Password Manager
 
-NAV Password manager is a open-source passoword manager.
+NAV Password manager is a open-source password manager.
 
 Fully written in Python!
 
